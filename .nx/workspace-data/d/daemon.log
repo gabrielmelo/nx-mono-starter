@@ -1,0 +1,130 @@
+[NX Daemon Server] - 2024-07-25T16:07:51.711Z - Started listening on: /tmp/5e493e3d7561de17f15b/d.sock
+[NX Daemon Server] - 2024-07-25T16:07:51.715Z - [WATCHER]: Subscribed to changes within: /home/gabriel/nx-mono-starter (native)
+[NX Daemon Server] - 2024-07-25T16:07:51.716Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T16:07:51.717Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2024-07-25T16:07:51.717Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2024-07-25T16:07:51.721Z - [REQUEST]: Responding to the client. handleGlob
+[NX Daemon Server] - 2024-07-25T16:07:51.722Z - Done responding to the client handleGlob
+[NX Daemon Server] - 2024-07-25T16:07:51.722Z - Handled GLOB. Handling time: 3. Response time: 1.
+[NX Daemon Server] - 2024-07-25T16:07:51.872Z - [REQUEST]: Responding to the client. handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-07-25T16:07:51.872Z - Done responding to the client handleNxWorkspaceFiles
+[NX Daemon Server] - 2024-07-25T16:07:51.872Z - Handled GET_NX_WORKSPACE_FILES. Handling time: 2. Response time: 0.
+[NX Daemon Server] - 2024-07-25T16:07:51.887Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2024-07-25T16:08:31.964Z - [WATCHER]: apps/vanilla/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:08:31.965Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:08:32.212Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:08:32.212Z - [REQUEST]: apps/vanilla/package.json
+[NX Daemon Server] - 2024-07-25T16:08:32.212Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:08:32.219Z - Time taken for 'loadNxPlugins' 145.19745300000068ms
+[NX Daemon Server] - 2024-07-25T16:08:32.350Z - Time taken for 'build-project-configs' 127.8542740000048ms
+[NX Daemon Server] - 2024-07-25T16:08:32.360Z - Time taken for 'total execution time for createProjectGraph()' 8.287177999998676ms
+[NX Daemon Server] - 2024-07-25T16:08:55.149Z - [WATCHER]: apps/vue/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:08:55.149Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:08:55.350Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:08:55.350Z - [REQUEST]: apps/vue/package.json
+[NX Daemon Server] - 2024-07-25T16:08:55.351Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:08:55.358Z - Time taken for 'hash changed files from watcher' 0.15211800000543008ms
+[NX Daemon Server] - 2024-07-25T16:08:55.368Z - Time taken for 'build-project-configs' 8.151207000002614ms
+[NX Daemon Server] - 2024-07-25T16:08:55.379Z - Time taken for 'total execution time for createProjectGraph()' 7.819757999997819ms
+[NX Daemon Server] - 2024-07-25T16:08:57.287Z - [WATCHER]: apps/vue/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:08:57.287Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:08:57.688Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:08:57.689Z - [REQUEST]: apps/vue/package.json
+[NX Daemon Server] - 2024-07-25T16:08:57.689Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:08:57.698Z - Time taken for 'hash changed files from watcher' 0.19427200000791345ms
+[NX Daemon Server] - 2024-07-25T16:08:57.701Z - Time taken for 'build-project-configs' 6.48909800000547ms
+[NX Daemon Server] - 2024-07-25T16:08:57.708Z - Time taken for 'total execution time for createProjectGraph()' 5.116722999999183ms
+[NX Daemon Server] - 2024-07-25T16:09:34.901Z - [WATCHER]: _tmp_395536_55b16bbb7edb5dd8b71520385ddf69ad was deleted
+[NX Daemon Server] - 2024-07-25T16:09:34.901Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:09:35.703Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:09:35.703Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:09:35.703Z - [REQUEST]: _tmp_395536_55b16bbb7edb5dd8b71520385ddf69ad
+[NX Daemon Server] - 2024-07-25T16:09:35.709Z - Time taken for 'hash changed files from watcher' 0.4407260000007227ms
+[NX Daemon Server] - 2024-07-25T16:09:35.723Z - Time taken for 'build-project-configs' 13.963499000004958ms
+[NX Daemon Server] - 2024-07-25T16:09:35.736Z - Time taken for 'total execution time for createProjectGraph()' 9.154304999989108ms
+[NX Daemon Server] - 2024-07-25T16:09:39.085Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2024-07-25T16:09:39.085Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:09:39.186Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:09:39.186Z - [REQUEST]: pnpm-lock.yaml
+[NX Daemon Server] - 2024-07-25T16:09:39.186Z - [REQUEST]: pnpm-lock.yaml.1472117168
+[NX Daemon Server] - 2024-07-25T16:09:39.199Z - Time taken for 'hash changed files from watcher' 0.11854300000413787ms
+[NX Daemon Server] - 2024-07-25T16:09:39.210Z - Time taken for 'total execution time for createProjectGraph()' 8.608049000002211ms
+[NX Daemon Server] - 2024-07-25T16:09:39.352Z - [WATCHER]: apps/vue was created or restored
+[NX Daemon Server] - 2024-07-25T16:09:39.353Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:09:39.553Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:09:39.554Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:09:39.554Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:09:39.559Z - Time taken for 'hash changed files from watcher' 0.04197299999941606ms
+[NX Daemon Server] - 2024-07-25T16:09:39.567Z - Time taken for 'build-project-configs' 10.483999000003678ms
+[NX Daemon Server] - 2024-07-25T16:09:39.575Z - Time taken for 'total execution time for createProjectGraph()' 4.998180999988108ms
+[NX Daemon Server] - 2024-07-25T16:10:18.126Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:10:18.127Z - [WATCHER]: apps/vanilla/src/app.js was modified
+[NX Daemon Server] - 2024-07-25T16:10:18.528Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:10:18.528Z - [REQUEST]: apps/vanilla/src/app.js
+[NX Daemon Server] - 2024-07-25T16:10:18.528Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:10:18.534Z - Time taken for 'hash changed files from watcher' 0.09342299998388626ms
+[NX Daemon Server] - 2024-07-25T16:10:18.535Z - Time taken for 'build-project-configs' 3.786158000002615ms
+[NX Daemon Server] - 2024-07-25T16:10:18.541Z - Time taken for 'total execution time for createProjectGraph()' 3.489058999984991ms
+[NX Daemon Server] - 2024-07-25T16:10:24.623Z - [WATCHER]: apps/vanilla/src/app.js was modified
+[NX Daemon Server] - 2024-07-25T16:10:24.623Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:10:25.425Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:10:25.425Z - [REQUEST]: apps/vanilla/src/app.js
+[NX Daemon Server] - 2024-07-25T16:10:25.425Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:10:25.433Z - Time taken for 'hash changed files from watcher' 0.19909299997380003ms
+[NX Daemon Server] - 2024-07-25T16:10:25.437Z - Time taken for 'build-project-configs' 6.059299999993527ms
+[NX Daemon Server] - 2024-07-25T16:10:25.445Z - Time taken for 'total execution time for createProjectGraph()' 3.953976999997394ms
+[NX Daemon Server] - 2024-07-25T16:13:03.104Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:13:03.106Z - [WATCHER]: packages/dom/README.md was modified
+[NX Daemon Server] - 2024-07-25T16:13:04.713Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:13:04.714Z - [REQUEST]: packages/dom/README.md
+[NX Daemon Server] - 2024-07-25T16:13:04.714Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:13:04.721Z - Time taken for 'hash changed files from watcher' 0.18776700005400926ms
+[NX Daemon Server] - 2024-07-25T16:13:04.733Z - Time taken for 'build-project-configs' 11.916326000005938ms
+[NX Daemon Server] - 2024-07-25T16:13:04.743Z - Time taken for 'total execution time for createProjectGraph()' 5.444307000027038ms
+[NX Daemon Server] - 2024-07-25T16:13:07.205Z - [WATCHER]: packages/dom/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:13:07.205Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:13:10.409Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:13:10.409Z - [REQUEST]: packages/dom/package.json
+[NX Daemon Server] - 2024-07-25T16:13:10.409Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:13:10.413Z - Time taken for 'hash changed files from watcher' 0.10689900000579655ms
+[NX Daemon Server] - 2024-07-25T16:13:10.420Z - Time taken for 'build-project-configs' 3.4764330000034533ms
+[NX Daemon Server] - 2024-07-25T16:13:10.433Z - Time taken for 'total execution time for createProjectGraph()' 10.42591300001368ms
+[NX Daemon Server] - 2024-07-25T16:13:12.070Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:13:12.071Z - [WATCHER]: packages/dom/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:13:18.481Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:13:18.481Z - [REQUEST]: packages/dom/package.json
+[NX Daemon Server] - 2024-07-25T16:13:18.481Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:13:18.490Z - Time taken for 'hash changed files from watcher' 0.2064890000037849ms
+[NX Daemon Server] - 2024-07-25T16:13:18.500Z - Time taken for 'build-project-configs' 7.1969650000100955ms
+[NX Daemon Server] - 2024-07-25T16:13:18.507Z - Time taken for 'total execution time for createProjectGraph()' 5.7833429999882355ms
+[NX Daemon Server] - 2024-07-25T16:14:06.673Z - [WATCHER]: _tmp_396718_e1663edb3930bb8cae8157c3de59f086 was deleted
+[NX Daemon Server] - 2024-07-25T16:14:06.674Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:14:13.081Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:14:13.081Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:14:13.081Z - [REQUEST]: _tmp_396718_e1663edb3930bb8cae8157c3de59f086
+[NX Daemon Server] - 2024-07-25T16:14:13.085Z - Time taken for 'hash changed files from watcher' 0.05507599998963997ms
+[NX Daemon Server] - 2024-07-25T16:14:13.087Z - Time taken for 'build-project-configs' 2.9814730000216514ms
+[NX Daemon Server] - 2024-07-25T16:14:13.090Z - Time taken for 'total execution time for createProjectGraph()' 1.949477999994997ms
+[NX Daemon Server] - 2024-07-25T16:14:21.960Z - [WATCHER]: apps/vanilla/package.json was modified
+[NX Daemon Server] - 2024-07-25T16:14:21.961Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:14:28.368Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-25T16:14:28.368Z - [REQUEST]: apps/vanilla/package.json
+[NX Daemon Server] - 2024-07-25T16:14:28.369Z - [REQUEST]: 
+[NX Daemon Server] - 2024-07-25T16:14:28.374Z - Time taken for 'hash changed files from watcher' 0.25666099996306ms
+[NX Daemon Server] - 2024-07-25T16:14:28.380Z - Time taken for 'build-project-configs' 6.373727000027429ms
+[NX Daemon Server] - 2024-07-25T16:14:28.387Z - Time taken for 'total execution time for createProjectGraph()' 4.2566160000278614ms
+[NX Daemon Server] - 2024-07-25T16:14:28.807Z - [WATCHER]: _tmp_396904_62c265045ba0033ba35d664ea1b4d7db was deleted
+[NX Daemon Server] - 2024-07-25T16:14:28.807Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:14:29.336Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2024-07-25T16:14:29.336Z - [WATCHER]: Stopping the watcher for /home/gabriel/nx-mono-starter (sources)
+[NX Daemon Server] - 2024-07-25T16:14:29.337Z - [WATCHER]: Stopping the watcher for /home/gabriel/nx-mono-starter (outputs)
+[NX Daemon Server] - 2024-07-25T16:14:29.337Z - Server stopped because: "LOCK_FILES_CHANGED"
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+
+
+> NX runtime error err=cannot send event from fs watcher: sending into a closed channel
+

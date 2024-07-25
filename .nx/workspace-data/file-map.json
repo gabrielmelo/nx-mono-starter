@@ -1,0 +1,195 @@
+{
+  "version": "6.0",
+  "nxVersion": "19.5.2",
+  "deps": {
+    "nx": "19.5.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "16569069068595545696"
+      },
+      {
+        "file": "README.md",
+        "hash": "17837356274242853619"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "2373171212127886927"
+      },
+      {
+        "file": "package.json",
+        "hash": "2930777610213818128"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "6231254217645246023"
+      },
+      {
+        "file": "nx.json",
+        "hash": "14443875240832808589"
+      },
+      {
+        "file": "apps/api/.gitignore",
+        "hash": "3244421341483603138"
+      }
+    ],
+    "projectFileMap": {
+      "vue": [
+        {
+          "file": "apps/vue/.vscode/extensions.json",
+          "hash": "2924711551599599544"
+        },
+        {
+          "file": "apps/vue/README.md",
+          "hash": "7113626678992050582"
+        },
+        {
+          "file": "apps/vue/dist/assets/index-BJLh6Aef.css",
+          "hash": "9972360979047919177"
+        },
+        {
+          "file": "apps/vue/dist/assets/index-C5tOAshj.js",
+          "hash": "9731291515759804718"
+        },
+        {
+          "file": "apps/vue/dist/index.html",
+          "hash": "4022830182212809828"
+        },
+        {
+          "file": "apps/vue/dist/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/vue/index.html",
+          "hash": "9489566880228333705"
+        },
+        {
+          "file": "apps/vue/package.json",
+          "hash": "7121417254679978192",
+          "deps": [
+            "npm:@vitejs/plugin-vue",
+            "npm:vite"
+          ]
+        },
+        {
+          "file": "apps/vue/public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/vue/public/vue.svg",
+          "hash": "6215844894841429247"
+        },
+        {
+          "file": "apps/vue/src/App.vue",
+          "hash": "14957061571963894599"
+        },
+        {
+          "file": "apps/vue/src/components/HelloWorld.vue",
+          "hash": "13775762003183680007"
+        },
+        {
+          "file": "apps/vue/src/main.js",
+          "hash": "16191179116649366684"
+        },
+        {
+          "file": "apps/vue/src/style.css",
+          "hash": "9062188384862178705"
+        },
+        {
+          "file": "apps/vue/vite.config.mjs",
+          "hash": "16362039650580913027"
+        }
+      ],
+      "vanilla": [
+        {
+          "file": "apps/vanilla/dist/assets/index-BfibREyH.css",
+          "hash": "8140391327036901727"
+        },
+        {
+          "file": "apps/vanilla/dist/assets/index-DmIbvV5M.js",
+          "hash": "16822284622767224423"
+        },
+        {
+          "file": "apps/vanilla/dist/index.html",
+          "hash": "2015657039048712111"
+        },
+        {
+          "file": "apps/vanilla/dist/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/vanilla/index.html",
+          "hash": "118569194768438214"
+        },
+        {
+          "file": "apps/vanilla/main.js",
+          "hash": "4258248393754932229"
+        },
+        {
+          "file": "apps/vanilla/package.json",
+          "hash": "7685573970876379135",
+          "deps": [
+            "npm:vite"
+          ]
+        },
+        {
+          "file": "apps/vanilla/public/javascript.svg",
+          "hash": "8148257050081513771"
+        },
+        {
+          "file": "apps/vanilla/public/vite.svg",
+          "hash": "16046085400642193116"
+        },
+        {
+          "file": "apps/vanilla/public/vue.svg",
+          "hash": "6215844894841429247"
+        },
+        {
+          "file": "apps/vanilla/src/app.js",
+          "hash": "8418038027250906313"
+        },
+        {
+          "file": "apps/vanilla/style.css",
+          "hash": "1470549144186381483"
+        }
+      ],
+      "dom-manipulation": [
+        {
+          "file": "packages/dom/README.md",
+          "hash": "7669624007320609315"
+        },
+        {
+          "file": "packages/dom/dist/dom.mjs",
+          "hash": "445028068782658106"
+        },
+        {
+          "file": "packages/dom/main.js",
+          "hash": "11122400313234004076"
+        },
+        {
+          "file": "packages/dom/package.json",
+          "hash": "18157093223530002479",
+          "deps": [
+            "npm:vite"
+          ]
+        },
+        {
+          "file": "packages/dom/src/changeBgColor.js",
+          "hash": "562088642198863474"
+        },
+        {
+          "file": "packages/dom/src/setupCounter.js",
+          "hash": "16494677407720722467"
+        },
+        {
+          "file": "packages/dom/vite.config.mjs",
+          "hash": "17501352085385046011"
+        }
+      ]
+    }
+  }
+}

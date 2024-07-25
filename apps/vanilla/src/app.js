@@ -1,7 +1,6 @@
-import { setupCounter } from "../../../packages/dom/src/setupCounter"
-
-import javascriptLogo from "../../../static/javascript.svg"
-import viteLogo from "../../../static/vite.svg"
+import { setupCounter } from "dom"
+import javascriptLogo from "/javascript.svg"
+import viteLogo from "/vite.svg"
 
 const App = {
   init: () => {

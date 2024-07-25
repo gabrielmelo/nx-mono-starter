@@ -1,1 +1,2 @@
-export * from "./src/changeBgColor"
+export * from './src/setupCounter'
+export * from './src/changeBgColor'

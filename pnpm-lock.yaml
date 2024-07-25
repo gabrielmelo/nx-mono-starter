@@ -13,11 +13,10 @@ importers:
         version: 19.5.2
 
   apps/vanilla:
-    dependencies:
-      dom:
-        specifier: workspace:*
-        version: link:../../packages/dom
     devDependencies:
+      dom:
+        specifier: workspace:^
+        version: link:../../packages/dom
       vite:
         specifier: ^5.3.4
         version: 5.3.4
